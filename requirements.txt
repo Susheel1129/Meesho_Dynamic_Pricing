@@ -1,0 +1,8 @@
+pandas>=1.4
+numpy>=1.22
+jupyter
+notebook
+scikit-learn
+matplotlib
+seaborn
+streamlit
