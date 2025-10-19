@@ -14,7 +14,8 @@ The dashboard allows interactive exploration of:
 - Margin impact across categories  
 - City-tier sensitivity to discount changes  
 - Key KPIs like conversion, margin, and discount holidays
-  <img width="962" height="541" alt="image" src="https://github.com/user-attachments/assets/aea56f8f-848f-4871-a04e-65fded71b581" />
+  <img width="953" height="542" alt="image" src="https://github.com/user-attachments/assets/ccd2c221-8931-4590-bbd1-63d909bf5cbd" />
+
 
 
 
@@ -40,3 +41,4 @@ Custom columns added in Power BI:
 ```DAX
 category_key = synthetic_transactions[category]
 city_tier_key = synthetic_transactions[city_tier]
+
